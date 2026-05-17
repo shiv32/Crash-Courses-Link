@@ -70,6 +70,10 @@ HTML
 
 [HTML Tutorial for Beginners](https://youtu.be/qz0aGYrrlhU?si=eMKmuuUFMqctOPhW)
 
+DevOps
+
+[Linux For DevOps In One Shot](https://youtu.be/e01GGTKmtpc?si=hyixPzfjPmY-7mEv)
+
 Freemium educational website 
 
 [W3Schools](https://www.w3schools.com/)
