@@ -66,6 +66,10 @@ PHP
 
 [Learn Object Oriented PHP](https://youtu.be/uUlLAfN3rJc?si=6UvZjQDI1ZExtjdT)
 
+HTML
+
+[HTML Tutorial for Beginners](https://youtu.be/qz0aGYrrlhU?si=eMKmuuUFMqctOPhW)
+
 Freemium educational website 
 
 [W3Schools](https://www.w3schools.com/)
