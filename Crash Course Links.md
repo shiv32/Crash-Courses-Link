@@ -56,6 +56,12 @@ Object-Oriented Programming
 
 PHP
 
+[PHP Tutorial for Beginners](https://youtu.be/ny4-hGENWVk?si=3khKFaxy0q__b0Sx)
+
+[PHP 8 Crash Course for Beginners](https://youtu.be/qybvUahCvaU?si=qt4TEdCoCxbibyrt)
+
+[Learn Object Oriented PHP for Beginners](https://youtu.be/yrFr5PMdk2A?si=88hcqe0qqJKYuRfa)
+
 [PHP For Beginners](https://youtu.be/BUCiSSyIGGU?si=0x4bF7m_n_4lOGZ6)
 
 [Learn Object Oriented PHP](https://youtu.be/uUlLAfN3rJc?si=6UvZjQDI1ZExtjdT)
